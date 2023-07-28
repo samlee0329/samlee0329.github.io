@@ -1,3 +1,7 @@
+---
+description: How to install GitHub Desktop on Ubuntu
+---
+
 # GitHub Desktop
 
 ## Download
