@@ -4,11 +4,15 @@ description: How to crack the Beyond compare on Ubuntu
 
 # Beyond Compare 4
 
-## 1. Download the beyond compare 4 on office site
+## 1. Download
+
+Download the beyond compare 4 on office site
 
 {% embed url="https://www.scootersoftware.com/download" %}
 
-## 2. Do below below commands on shell
+## 2. Shell Commands
+
+Run below commands on shell
 
 {% code overflow="wrap" %}
 ```sh
