@@ -1,5 +1,5 @@
 ---
-description: How to crack the Beyond compare on Ubuntu
+description: How to crack the Beyond compare 4 on Ubuntu
 ---
 
 # Beyond Compare 4
