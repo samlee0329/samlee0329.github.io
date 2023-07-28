@@ -1,0 +1,2 @@
+# Beyond Compare 4
+
