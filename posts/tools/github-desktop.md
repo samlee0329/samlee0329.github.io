@@ -1,8 +1,10 @@
 # GitHub Desktop
 
+## Download
+
 {% embed url="https://github.com/shiftkey/desktop" %}
 
-
+## Console commands
 
 {% code overflow="wrap" %}
 ```sh
