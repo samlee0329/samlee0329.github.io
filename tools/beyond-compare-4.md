@@ -1,6 +1,8 @@
+---
+description: How to crack the Beyond compare on Ubuntu
+---
+
 # Beyond Compare 4
-
-
 
 ## Ubuntu
 
@@ -28,11 +30,6 @@ kdtgaKEEik7aNiI3jXvp5r34wViVJCiX7m2y7pqBV9gZIvP9hP9KPnP++++
 ```
 {% endcode %}
 
-
-
 ### Reference
 
 [https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67](https://gist.github.com/rise-worlds/5a5917780663aada8028f96b15057a67)
-
-
-
