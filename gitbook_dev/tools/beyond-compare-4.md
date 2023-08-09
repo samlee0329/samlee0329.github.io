@@ -8,7 +8,7 @@ description: How to crack the Beyond compare 4 on Ubuntu
 
 Download the beyond compare 4 on office site
 
-{% embed url="https://www.scootersoftware.com/download" %}
+
 
 ## 2. Shell Commands
 
